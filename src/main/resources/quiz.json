@@ -1,0 +1,138 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is a whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing is performed to determine system performance?",
+    "option 1": "Functional Testing",
+    "option 2": "Performance Testing",
+    "option 3": "System Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of regression testing?",
+    "option 1": "To check new functionality",
+    "option 2": "To ensure existing functionality is unaffected by changes",
+    "option 3": "To find out system limits",
+    "option 4": "To validate user requirements",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is not a functional testing type?",
+    "option 1": "Smoke Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Usability Testing",
+    "option 4": "Boundary Value Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is a black-box testing method?",
+    "option 1": "Code Coverage Analysis",
+    "option 2": "Mutation Testing",
+    "option 3": "Boundary Value Analysis",
+    "option 4": "Statement Coverage",
+    "answerkey": 3
+  },
+  {
+    "question": "Which is an example of load testing?",
+    "option 1": "Testing for concurrent users",
+    "option 2": "Testing for invalid inputs",
+    "option 3": "Testing UI responsiveness",
+    "option 4": "Testing application installation",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing type is focused on ensuring data security?",
+    "option 1": "Load Testing",
+    "option 2": "Penetration Testing",
+    "option 3": "Smoke Testing",
+    "option 4": "Sanity Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is not a dynamic testing type?",
+    "option 1": "Unit Testing",
+    "option 2": "Static Code Analysis",
+    "option 3": "Integration Testing",
+    "option 4": "System Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is the primary goal of acceptance testing?",
+    "option 1": "To validate design accuracy",
+    "option 2": "To test individual components",
+    "option 3": "To ensure the system meets business needs",
+    "option 4": "To test internal code structure",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing type focuses on testing the UI?",
+    "option 1": "Integration Testing",
+    "option 2": "GUI Testing",
+    "option 3": "Regression Testing",
+    "option 4": "Load Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does alpha testing involve?",
+    "option 1": "Testing by developers",
+    "option 2": "Testing in the real environment",
+    "option 3": "Testing by end-users at the developer's site",
+    "option 4": "Testing with real data",
+    "answerkey": 3
+  },
+  {
+    "question": "Which is not a part of non-functional testing?",
+    "option 1": "Performance Testing",
+    "option 2": "Security Testing",
+    "option 3": "Compatibility Testing",
+    "option 4": "Integration Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the primary purpose of smoke testing?",
+    "option 1": "To validate new functionality",
+    "option 2": "To ensure the basic functionality works",
+    "option 3": "To test the performance under load",
+    "option 4": "To find memory leaks",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is not a test design technique?",
+    "option 1": "Boundary Value Analysis",
+    "option 2": "Decision Table Testing",
+    "option 3": "Code Review",
+    "option 4": "Equivalence Partitioning",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the primary purpose of regression testing?",
+    "option 1": "To test the application under heavy load.",
+    "option 2": "To verify that new changes have not broken existing functionality.",
+    "option 3": "To ensure the application meets user requirements.",
+    "option 4": "To evaluate the system's behavior in different environments.",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the primary purpose of performing load testing in software applications?",
+    "option 1": "To check the application's response under normal and peak conditions.",
+    "option 2": "To identify security vulnerabilities in the application.",
+    "option 3": "To validate the user interface design.",
+    "option 4": "To ensure that the application is free of bugs.",
+    "answerkey": 1
+  }
+]
