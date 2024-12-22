@@ -1,8 +1,9 @@
 ## About The Project
 
-This Java-based Quiz System allows an admin to add multiple MCQs, and a student to take a quiz. 
-Admin can add questions to a quiz.json file,while students answer random questions with scoring 
-and feedback based on performance.
+This Java-based Quiz System allows an admin to add multiple MCQs,
+and a student to take a quiz.Admin can add questions to a quiz.json
+file,while students answer random questions with scoring and feedback 
+based on performance.
 
 ## Technology used
 - Java -Programing Language
