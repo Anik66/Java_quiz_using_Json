@@ -10,6 +10,7 @@ based on performance.
 - Intellij (IDE)
 
 ## Approach and Solution Video
+https://drive.google.com/drive/folders/19vTSqEjugPV1U-b3HPSCnYSGY3VxlYlQ?dmr=1&ec=wgc-drive-hero-goto
 
 
 
